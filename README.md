@@ -8,6 +8,13 @@ This project analyzes patient reviews on medical drugs using SQL and Power BI. T
 
 ---  
 
+### Dashboard   
+(Created in Power BI)
+
+
+
+---
+
 ### SQL  
 
 Total number of Queries: 22  
@@ -32,7 +39,7 @@ ORDER BY Total_number_of_reviews DESC;
 
 ```
 
-![image](https://github.com/user-attachments/assets/bcdc6082-f6d1-4ba3-9391-55b9647d4ad5)  
+![image](https://github.com/user-attachments/assets/bcdc6082-f6d1-4ba3-9391-55b9647d4ad5)  <BR>
 
 #2 Average ratings by condition (with contribution of review on basis of condition)   <BR>
 
@@ -48,7 +55,7 @@ ORDER BY Total_number_of_reviews DESC;
 
 ```
 
-![image](https://github.com/user-attachments/assets/4552371e-ce11-4044-af88-195d937296dc)
+![image](https://github.com/user-attachments/assets/4552371e-ce11-4044-af88-195d937296dc)  <BR>
 
 #3 Most common used drugs for the condition (Most common combination)   <BR>
 
@@ -68,7 +75,7 @@ WITH Most_common AS
 
 ```
 
-![image](https://github.com/user-attachments/assets/1dee8a1a-fa4e-4691-bd35-495ba4881e70)
+![image](https://github.com/user-attachments/assets/1dee8a1a-fa4e-4691-bd35-495ba4881e70)  <BR>
 
 #4 Perfect ratings by Years   <BR>
 
@@ -95,7 +102,7 @@ ORDER BY Yearly_reviews.Years ASC;
 
 ```
 
-![image](https://github.com/user-attachments/assets/7609376f-c747-4abb-88ab-3d5dd98a63d5)  
+![image](https://github.com/user-attachments/assets/7609376f-c747-4abb-88ab-3d5dd98a63d5)    <BR>
 
 #5 Count of reviews containing positive keywords (good, effective, excellent, recommended, great)   <BR>
 
@@ -127,7 +134,7 @@ ORDER BY years ASC;
 
 ```
 
-![image](https://github.com/user-attachments/assets/b5be8548-bee7-42b3-8ccf-51f3ea748f6f)
+![image](https://github.com/user-attachments/assets/b5be8548-bee7-42b3-8ccf-51f3ea748f6f)  <BR>
 
 #6 Ratings breakdown by condition  <BR>
 
@@ -162,6 +169,8 @@ ORDER BY Total DESC;
 ```
 
 ![image](https://github.com/user-attachments/assets/c862dc2a-a177-463b-a984-b6309f133e9e)
+
+
 
 
 
