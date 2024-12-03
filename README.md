@@ -10,7 +10,8 @@ This project analyzes patient reviews on medical drugs using SQL and Power BI. T
 
 ### Dashboard    
 ![image](https://github.com/user-attachments/assets/19ac4360-387a-4b0d-bf7e-4b9f3531eefd)  
-*Created in Power BI 
+*Created in Power BI  
+ *4 Tables used (3 created using SQL Query)
 
 Video Link: https://github.com/user-attachments/assets/b8c50d73-c364-41e9-a999-861acee88c7f
 
